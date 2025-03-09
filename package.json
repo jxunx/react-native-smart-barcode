@@ -1,0 +1,56 @@
+{
+  "_args": [
+    [
+      "git+https://github.com/7caishi/react-native-smart-barcode.git",
+      "/Users/shin/Data/bz/nice-artisan-pda"
+    ]
+  ],
+  "_from": "git+https://github.com/7caishi/react-native-smart-barcode.git",
+  "_id": "react-native-smart-barcode@git+https://github.com/7caishi/react-native-smart-barcode.git#3b32b0100dc3e4cfb0cbcba99d3d401c77e8feb3",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-smart-barcode",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+https://github.com/7caishi/react-native-smart-barcode.git",
+    "rawSpec": "git+https://github.com/7caishi/react-native-smart-barcode.git",
+    "saveSpec": "git+https://github.com/7caishi/react-native-smart-barcode.git",
+    "fetchSpec": "https://github.com/7caishi/react-native-smart-barcode.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/7caishi/react-native-smart-barcode.git#3b32b0100dc3e4cfb0cbcba99d3d401c77e8feb3",
+  "_spec": "git+https://github.com/7caishi/react-native-smart-barcode.git",
+  "_where": "/Users/shin/Data/bz/nice-artisan-pda",
+  "author": {
+    "name": "HISAME SHIZUMARU"
+  },
+  "bugs": {
+    "url": "https://github.com/react-native-component/react-native-smart-barcode/issues"
+  },
+  "description": "A smart barcode scanner component for React Native app",
+  "homepage": "https://github.com/react-native-component/react-native-smart-barcode#readme",
+  "keywords": [
+    "react-native",
+    "smart",
+    "barcode",
+    "scan"
+  ],
+  "license": "MIT",
+  "main": "Barcode.js",
+  "name": "react-native-smart-barcode",
+  "peerDependencies": {
+    "react-native": ">=0.40.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/react-native-component/react-native-smart-barcode.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.6"
+}
